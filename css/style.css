@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Explora&family=Montserrat:wght@200;300;500;600;700;800;900&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,900&family=Titan+One&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+  
+.p-header ul li a{
+    padding: 15px;
+}
+.p-s-header ul li a{
+    padding-left: 100px;
+}
+.click-col ul li a {
+    color: blue;
+
+}
+click-col ul li a:hover {
+    color: rgb(0, 255, 255);
+}
+.click-col ul li a b{
+    color: blue;
+    font-size: 17px;
+    
+}
+.click-col ul li a b:hover {
+    color:#00b0ed;
+}
+.h-face ul li a {
+    text-decoration: none;
+    list-style: none;
+    color: blueviolet;
+} 
+.list-none ul li{
+    text-decoration: none;
+    list-style: none;
+}
+.c-heading-big {
+    color: #fff;
+    text-align: center;
+
+}
+.oll{
+    vertical-align: middle;
+}
+.f-size{
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.t-20{
+    top: 20%;
+}
+.p-top-80px{
+padding-top: 10px;
+}
+.popup i a:hover{
+     width: 95%;
+     padding: 50px;
+     text-decoration: none;
+}
+.bottom{
+    margin-bottom: 15%;
+}
+.pro-name p a {
+padding-left: 80px;
+color: #1100ff;
+font-size: 30px;
+text-decoration: none;
+
+}
+.pro-name p a{
+    text-decoration: none;
+
+}
+.pro-name p a:hover{
+    text-decoration: solid;
+}
+.fav  a:hover{
+    text-decoration: underline;
+
+}
+
+.space p{
+    text-indent: 1px;
+}
+.reduce-spacing {
+  letter-spacing: 2px;
+}
+.l-s p{
+    line-height: -0px;
+}
+.f-size-down{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.font-down-image{
+    font-weight: 50px;
+    
+}
+.p-lemon{
+    padding-top: 50px;
+    padding-left: 40px;
+    font-size: 20px;
+
+}
+.p-lemon-text a{
+color: #fff;
+text-decoration: none;
+
+}
+.p-lemon-text a:hover{
+    text-decoration: underline;
+}
+.col {
+    color: #00b0ed;
+}
+.res a b:hover{
+    text-decoration: underline;
+}
+.pad-res{
+padding: 70px;
+}
+
+.footer div a{
+    text-decoration: none;
+    color: white;
+}
+.f-bg{
+    background-color: #039;
+
+}
