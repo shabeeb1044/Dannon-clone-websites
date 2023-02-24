@@ -4,6 +4,10 @@ body{
     font-family: 'Poppins', sans-serif;
 
 }
+li{
+    list-style: none;
+}
+
   
 .p-header ul li a{
     padding: 15px;
