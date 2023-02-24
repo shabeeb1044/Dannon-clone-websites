@@ -91,11 +91,11 @@ text-decoration: none;
 .reduce-spacing {
   letter-spacing: 2px;
 }
-.l-s p{
-    line-height: -0px;
+.l-s {
+    line-height: 80% !important;
 }
 .f-size-down{
-    font-size: 50px;
+    font-size: 100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .font-down-image{
